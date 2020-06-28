@@ -1,0 +1,6 @@
+id=pixel3-powerhint
+name=Pixel 3/3 XL Powerhint Modifier
+version=v1
+versionCode=1
+author=nysascape
+description=A Magisk module to remove big core interaction boost, and reduce top-app boosting from 50 to 15. For Pixel 3 and 3 XL.
